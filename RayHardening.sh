@@ -1,4 +1,5 @@
                                #!/bin/bash
+echo -n "Warning: This script is made for use for CentOS8 Machines"
 echo -n
 echo -n "Please enter a new SSH port (or press enter for random): "
 read -e SSHPORT
